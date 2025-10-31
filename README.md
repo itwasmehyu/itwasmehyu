@@ -11,9 +11,6 @@ My name is Huy "Tobias" Nguyen, and I'm an IT Engineer currently pursuing a Bach
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itwasmehyu&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itwasmehyu&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=itwasmehyu&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
